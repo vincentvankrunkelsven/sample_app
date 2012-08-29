@@ -22,34 +22,16 @@
       <file leaf-file-name="home.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="4" selection-start="177" selection-end="177" vertical-scroll-proportion="-0.64">
+            <state line="6" column="4" selection-start="177" selection-end="177" vertical-scroll-proportion="-3.84">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static_pages_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/requests/static_pages_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="141" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/database.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="17" selection-start="560" selection-end="560" vertical-scroll-proportion="0.7103594">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
+            <state line="7" column="20" selection-start="158" selection-end="158" vertical-scroll-proportion="0.15384616">
               <folding />
             </state>
           </provider>
@@ -67,7 +49,7 @@
       <file leaf-file-name="contact.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/static_pages/contact.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="134" selection-start="182" selection-end="182" vertical-scroll-proportion="-3.2">
+            <state line="5" column="134" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1346200057000" expanded="true" signature="52:181" placeholder="..." />
               </folding>
@@ -115,8 +97,8 @@
         <option value="$PROJECT_DIR$/app/controllers/static_pages_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/contact.html.erb" />
         <option value="$PROJECT_DIR$/spec/requests/static_pages_spec.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -128,7 +110,6 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="775" />
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="874" />
@@ -269,8 +250,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="RailsProjectView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -552,12 +533,12 @@
       <method />
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
-      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="2" class="java.lang.String" itemvalue="Rails.Production: sample_app" />
-      <item index="3" class="java.lang.String" itemvalue="Rails.Development: sample_app" />
-      <item index="4" class="java.lang.String" itemvalue="RSpec.static_pages_spec" />
-      <item index="5" class="java.lang.String" itemvalue="RSpec.All specs in: requests" />
+      <item index="0" class="java.lang.String" itemvalue="RSpec.static_pages_spec" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.All specs in: requests" />
+      <item index="2" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="3" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="4" class="java.lang.String" itemvalue="Rails.Production: sample_app" />
+      <item index="5" class="java.lang.String" itemvalue="Rails.Development: sample_app" />
     </list>
     <recent_temporary>
       <list size="2">
@@ -594,14 +575,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="775" y="22" width="1440" height="874" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25681493" sideWeight="0.6718147" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26040173" sideWeight="0.6718147" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -685,9 +666,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="7" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="11" column="7" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/500.html">
@@ -702,16 +681,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="86" selection-start="432" selection-end="432" vertical-scroll-proportion="0.6666667">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="4" selection-start="177" selection-end="177" vertical-scroll-proportion="-0.64">
-          <folding />
-        </state>
+        <state line="19" column="86" selection-start="432" selection-end="432" vertical-scroll-proportion="0.6666667" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/help.html.erb">
@@ -730,16 +700,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="7" selection-start="111" selection-end="111" vertical-scroll-proportion="0.14285715">
-          <folding />
-        </state>
+        <state line="4" column="7" selection-start="111" selection-end="111" vertical-scroll-proportion="0.14285715" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="27" selection-start="147" selection-end="147" vertical-scroll-proportion="0.22626263">
-          <folding />
-        </state>
+        <state line="7" column="27" selection-start="147" selection-end="147" vertical-scroll-proportion="0.22626263" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/static_pages_controller.rb">
@@ -751,30 +717,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/static_pages/contact.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="134" selection-start="182" selection-end="182" vertical-scroll-proportion="-3.2">
+        <state line="5" column="134" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1346200057000" expanded="true" signature="52:181" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="50" selection-start="561" selection-end="561" vertical-scroll-proportion="0.48351648">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spec/requests/static_pages_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="141" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.0">
+        <state line="50" column="141" selection-start="1278" selection-end="1278" vertical-scroll-proportion="0.61958045">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/static_pages/home.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="177" selection-end="177" vertical-scroll-proportion="-3.84">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/database.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="17" selection-start="560" selection-end="560" vertical-scroll-proportion="0.7103594">
+        <state line="7" column="20" selection-start="158" selection-end="158" vertical-scroll-proportion="0.15384616">
           <folding />
         </state>
       </provider>
